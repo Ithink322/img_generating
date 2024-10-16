@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,3 +74,6 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# img_generating
+>>>>>>> 24d17ae87f8f45fe051a38f144aa23b3e690ce4e
