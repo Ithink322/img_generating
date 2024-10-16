@@ -63,7 +63,7 @@ const generateImage = async () => {
         path: "/animations/progress-ring.json",
       });
     } else {
-      console.error("Progress ring element is null");
+      console.error("Progress ring element is null!");
     }
   });
   error.value = "";
